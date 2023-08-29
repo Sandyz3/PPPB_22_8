@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PPPB_22_8</string>
+    <string name="btn_tst1">Btn_tst1</string>
+    <string name="btn_tst2">Btn_tst2</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="hint">Hint</string>
+</resources>
